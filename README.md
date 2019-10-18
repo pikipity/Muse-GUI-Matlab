@@ -2,6 +2,8 @@
 
 Display and record EEG signals from Muse using MATLAB.
 
+![Screenshot](https://raw.githubusercontent.com/pikipity/Muse-GUI-Matlab/master/Screenshot/Screenshot.JPG)
+
 ## Requirements
 
 + Now, this GUI is only tested on MATLAB 2015b and Windows 10.
