@@ -18,3 +18,7 @@ Display and record EEG signals from Muse using MATLAB.
 3. Start Muse GUI by running `Main.m`.
 4. Press "Connect". Then, you should see signals in GUI.
 5. Press "Record" to save original data (without filters).
+
+## References
+
+[view function](https://github.com/alexandrebarachant/muse-lsl/blob/master/muselsl/viewer_v1.py) in [muse-lsl](https://github.com/alexandrebarachant/muse-lsl)
